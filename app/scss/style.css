@@ -405,7 +405,7 @@ button:hover::before, .button:hover::before {
 
 .hero__image {
   position: relative;
-  background-image: url("app/images/bg-intro-mobile.svg");
+  background-image: url("/app/images/bg-intro-mobile.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
